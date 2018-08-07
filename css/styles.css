@@ -166,6 +166,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#baha-cover {
+  background-image: url('');
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
